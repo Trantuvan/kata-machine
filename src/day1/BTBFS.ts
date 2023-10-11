@@ -1,4 +1,3 @@
-export default function bfs(
-    head: BinaryNode<number>,
-    needle: number,
-): boolean {}
+export default function bfs(head: BinaryNode<number>, needle: number): boolean {
+
+}
